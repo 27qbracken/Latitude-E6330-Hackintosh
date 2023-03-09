@@ -13,6 +13,9 @@ Specs:
   This was built using Opencore 0.8.8 Using the OpenCore Install Guide:
   https://dortania.github.io/OpenCore-Install-Guide/
   
+  You will need to add your own com.apple.recovery.boot stuff using the macrecovery.py script found in the opencore package:
+  https://github.com/acidanthera/OpenCorePkg/releases
+  
   
   
   
